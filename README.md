@@ -1,12 +1,15 @@
 # **CoreJS**
 
 ## ***Biografia***
+
 👋🏾Hola soy un **YouTuber** de 🖥️programacion en tegnologias como **HTML**, **CSS**, poco de **JS**, poco de **Dart**, tambien quiero saber mas del backend y mucho mas del frontend
 
 ---
 
 ## **Repositorios**
+
 Mis repositorios son
+
 - **CoreJS**
   - **Tutorial-Game** (*Public*)
     - *Vacio*
@@ -43,8 +46,8 @@ Mis repositorios son
     - *CSS*
     - *JSX*
     - *HTMl*
-  - **mi-web** (*Public*)
-    - *Vacio*
+  -**mi-web** (*Public*)
+    -*Vacio*
 
 ---
 
