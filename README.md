@@ -8,7 +8,7 @@ Mis repositorios son
 - **CoreJS**
   - **Tutorial-Game** (*Public*)
   - **Sitio Web** (*Public*)
-  (X) **reactcourse** (*Public*)
+  - **reactcourse** (*Public*)
     - *JSX*
     - *CSS*
     - *HTML*
